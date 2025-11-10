@@ -27,7 +27,7 @@ const Feature = () => {
       </div>
 
       {/* Feature cards */}
-      <div className="relative z-10 flex flex-wrap justify-center mt-16 gap-8 px-6">
+      <div className="relative z-10 flex flex-wrap justify-center mt-16 gap-8 lg:px-6">
         {features.map((item, index) => (
           <div
             key={index}
