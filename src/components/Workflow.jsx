@@ -4,7 +4,7 @@ import { checklistItems } from "../constants/index";
 const Workflow = () => {
   return (
     <>
-      <div className="mt-20 ">
+      <div className="mt-20 bg-linear-to-b from-orange-900/10 via-transparent to-pink-900/10 pointer-events-none ">
         <div className="w-full p-4 flex items-center justify-center">
           <h1 className="lg:text-6xl md:text-4xl sm:text-3xl font-bold">
             Accelerate your{" "}
